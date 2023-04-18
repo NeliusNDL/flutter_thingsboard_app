@@ -1,3 +1,5 @@
+(deprecated)
+
 ## [ThingsBoard Mobile Application](https://thingsboard.io/products/mobile/) is an open-source project based on [Flutter](https://flutter.dev/)
 Powered by [ThingsBoard](https://thingsboard.io) IoT Platform
 
